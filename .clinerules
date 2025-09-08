@@ -1,0 +1,18 @@
+# wl.v14 Development Standards
+Project: wl.v14
+Location: /home/emill/projects/wl/wl.v14
+Date: 2025-09-08
+
+## Project Guidelines
+- Follow ops.app development standards
+- Maintain clean, documented code
+- Use consistent naming conventions
+- Test all changes before committing
+
+## Directory Structure
+- src/ : Source code
+- docs/ : Documentation
+- tests/ : Test files
+- config/ : Configuration files
+- data/ : Data files
+- scripts/ : Utility scripts
