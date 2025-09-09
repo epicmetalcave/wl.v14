@@ -1,0 +1,19 @@
+# wl.v14 Tech Stack
+Last Updated: 2025-01-09
+
+## Current Stack
+- Python 3 (development server only)
+- Git
+
+## Planned/Referenced
+- Vanilla JavaScript (ES6)
+- CSS Variables
+- Service Workers (from wl.service-worker file)
+- PWA Manifest (from wl.pwa-manifest file)
+- Cache API (from wl.cache-strategy file)
+
+## Not Using
+- Build tools
+- NPM/Node
+- Frameworks (React/Vue/Angular)
+- Backend framework
